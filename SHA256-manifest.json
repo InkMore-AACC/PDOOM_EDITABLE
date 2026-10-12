@@ -1,0 +1,232 @@
+[
+  {
+    "Path": "PDOOM_EDITABLE copy 24.x.aep",
+    "Bytes": 123345125,
+    "SHA256": "6FEC87D9E4D8D6C0FE6BBBBB8E9F47F543FA68477BC1DF6202896241BA37AD4E"
+  },
+  {
+    "Path": "PDOOM_EDITABLE.aep",
+    "Bytes": 122666404,
+    "SHA256": "2BB5F1B0541E740345207085808EC4DBF76F075A97062B35F6267C44A985DB20"
+  },
+  {
+    "Path": "PDOOM_EDITABLEReport.txt",
+    "Bytes": 11476,
+    "SHA256": "81173414AAC102E6F227D3433D05C21E75EE9EC51F2F79FD041D10BAED2C5106"
+  },
+  {
+    "Path": "(Footage)/ilya-motion.json",
+    "Bytes": 17562,
+    "SHA256": "8F8A5BFD7B945EACB1AF4836193669EE0678518236CF845058FC6E78E6937098"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Ascent reconstruction/ascent-analytic.json",
+    "Bytes": 403914,
+    "SHA256": "262CE83DF1A45A5F044D06231D3B5A810E9440BACBD318C4765C3F96618BC262"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Ascent reconstruction/ascent-world-analytic.json",
+    "Bytes": 403914,
+    "SHA256": "262CE83DF1A45A5F044D06231D3B5A810E9440BACBD318C4765C3F96618BC262"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Bureau reconstruction/bureau-analytic.json",
+    "Bytes": 148410,
+    "SHA256": "16668D27D6D97F14E745B94D6CF1D5D85FA88E7B9E42F002089431C83F01242E"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Dense reconstruction/dense-analytic.json",
+    "Bytes": 455745,
+    "SHA256": "E5BAE52A33E92EE28F42F42255A1A0EA43E3DE664A2EEF93BBB6325DEEE174EC"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Fuse reconstruction/fuse-analytic.json",
+    "Bytes": 233434,
+    "SHA256": "3B8705E84528F6728DB1F65473FDD4630932C1A5BB2A181839912B346B9FCBBA"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Left turn reconstruction/leftturn-analytic.json",
+    "Bytes": 172193,
+    "SHA256": "281C12761A41335B8293193AA825BC39B37F285A9F5526B7B7F31695F539F371"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Loom reconstruction/loom-overlay-analytic.json",
+    "Bytes": 536957,
+    "SHA256": "B7922D5B1B9EFB4624BD68E26EBC38C4B38B617353901ED682285FCFC833FC54"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Loom reconstruction/loom-plate-analytic.json",
+    "Bytes": 536955,
+    "SHA256": "FD16B8F73D859EFCD72849D0F3FD99CC291FB865ED4E6D824DA534467792431C"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Loss reconstruction/loss-analytic.json",
+    "Bytes": 224050,
+    "SHA256": "DEF05D3FBF1D01F5DE10B8495EB5FADBD67A09CBBC3114FC8286E592DDABB8A7"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Open reconstruction/open-analytic.json",
+    "Bytes": 386099,
+    "SHA256": "225C89D1C38E3CF6024C0F3F8B84D0D8029DB4DA5F852EE3616B5CB58430025F"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Outro reconstruction/fig01.jpg",
+    "Bytes": 391085,
+    "SHA256": "0961AFA9E284834FF3E2C4544F462B3A828F3451F716A0656F38BFB7D422C7E6"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Outro reconstruction/fig02.jpg",
+    "Bytes": 663931,
+    "SHA256": "CE9E350DA550F64D32DE6FFD222B6B6D484C6689DEB127401A129A493721E11A"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Outro reconstruction/fig03.jpg",
+    "Bytes": 539407,
+    "SHA256": "E3657C9732C18CA8F7D314FAD50236A266541C65B01E78AB23C37C37C6001A6F"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Outro reconstruction/fig04.jpg",
+    "Bytes": 467899,
+    "SHA256": "43DD9348E31415B791F926150244C2F726AD28153385DC8A25AB71679FFA3F77"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Outro reconstruction/fig05.jpg",
+    "Bytes": 473705,
+    "SHA256": "BED4E9D5C75993535B842BA5F1CDE90DF8E4ACC9138DB8DB30777AA8D7379FBE"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Outro reconstruction/fig06.jpg",
+    "Bytes": 475675,
+    "SHA256": "C3CF7E10A6C0E40797D63095BB75FF5D679BEFC110682FB911E645EC16B8DAB2"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Outro reconstruction/fig07.jpg",
+    "Bytes": 315443,
+    "SHA256": "80FAF7919C2B5C6C84528AE4FFC084A382666FDFD98FDE8D2E160D9EAB6B03D7"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Outro reconstruction/fig08.jpg",
+    "Bytes": 475323,
+    "SHA256": "A32B7E4CD750A8DF99F7ABC525A5E475BFE0772305AD62B55BF0828E1860FF29"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Outro reconstruction/fig09.jpg",
+    "Bytes": 469984,
+    "SHA256": "431B3CAD0273B81011A904B61EFE4D85C2A93BD0B6477FF930BC4C3AF5F005B1"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Outro reconstruction/fig10.jpg",
+    "Bytes": 278900,
+    "SHA256": "07D81E7B4F2A2D1BF278D104542092CB0432802EEA72350C1253B02CC50CD218"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Outro reconstruction/fig11.jpg",
+    "Bytes": 351750,
+    "SHA256": "C2A4F8EDA7CBC78AD0800300A3BB0F1C7EF29E16A90167BC8FEAE3E0F52A4A48"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Outro reconstruction/fig12.jpg",
+    "Bytes": 295187,
+    "SHA256": "0F8AC26FC00F1B48BB5DF09AECF3870128F50B2919748AEEAAC1992FE6D2C177"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Outro reconstruction/fig13.jpg",
+    "Bytes": 335525,
+    "SHA256": "21E48C2098070C732485446197E14D6BBAF4430A586171CB07F0B3760C06572F"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Outro reconstruction/fig14.jpg",
+    "Bytes": 388589,
+    "SHA256": "9821C1114BE1CDBB3A0BF14BE537F30369007EB7B09E793A11DB07ACDA36D8D2"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Outro reconstruction/outro-analytic.json",
+    "Bytes": 368230,
+    "SHA256": "030C69D5CFECD7C487CDE468534A4067B01F0EE63BF77BCD378778D44602CF36"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Paperclips reconstruction/paperclips-analytic.json",
+    "Bytes": 82425,
+    "SHA256": "AE2BAE5B078DE70FD0BE47FF5A312792DF291555A2EC7451636143A5481220E3"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Prompt reconstruction/prompt1-analytic.json",
+    "Bytes": 79116,
+    "SHA256": "4219A1334F010D20220C516894CD63B8424261439A1415D4358960A5F834302E"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Prompt reconstruction/prompt2-analytic.json",
+    "Bytes": 77794,
+    "SHA256": "C2A0CE81881E74C36EEF18061CB8A5A7E161CCFE52F484B80B6979B0A557B90E"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Prompt reconstruction/prompt3-analytic.json",
+    "Bytes": 77741,
+    "SHA256": "C0A27D301B7F11EF7AC87DB75A9A303C74C6421519A42BB3619124E21476F69A"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Reconstructed hooks/hook1-analytic.json",
+    "Bytes": 126373,
+    "SHA256": "427E3798AF8DF82E1C28D338D0E64F03992CA504BAD6119F951837F0B7A1DD94"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Reconstructed hooks/hook2-analytic.json",
+    "Bytes": 126375,
+    "SHA256": "640741A0CF347B45E254854136CA9163E088E4ACD8A0C8A3131E67AEFA761C65"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Reconstructed hooks/hook3-analytic.json",
+    "Bytes": 126388,
+    "SHA256": "3B1BA6AE42BBD2B17E93D43CEDF7151AFA7E4F61B8B10C988439782E377C8D4E"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Reconstructed hooks/hook4-analytic.json",
+    "Bytes": 126396,
+    "SHA256": "BA4CEE79B6F369B3922948B40A2D80545E7FE5C4A5FF62A9CC289A84C43669AC"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Room reconstruction/room-analytic.json",
+    "Bytes": 180525,
+    "SHA256": "3A6A95F248B9D24BB5874B3B0F87A24DA9C4558FB198252A337B9ED4AEAD75AE"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Room reconstruction/room-front-analytic.json",
+    "Bytes": 180525,
+    "SHA256": "3A6A95F248B9D24BB5874B3B0F87A24DA9C4558FB198252A337B9ED4AEAD75AE"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Shoggoth reconstruction/shoggoth-analytic.json",
+    "Bytes": 189345,
+    "SHA256": "A2A0CB3715A0F3CAC42B836CA75FF2819DF1D12D550F77F6F1DCB0088B64712B"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Shoggoth reconstruction/shoggoth-engraved-analytic.json",
+    "Bytes": 189345,
+    "SHA256": "A2A0CB3715A0F3CAC42B836CA75FF2819DF1D12D550F77F6F1DCB0088B64712B"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Spacetime reconstruction/spacetime-analytic.json",
+    "Bytes": 446454,
+    "SHA256": "D1AA98D3CCA2FCD22935301848938ADD6EA043AEA7390993DC7D5170882B6DA4"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Spacetime reconstruction/spacetime-plane-analytic.json",
+    "Bytes": 446454,
+    "SHA256": "D1AA98D3CCA2FCD22935301848938ADD6EA043AEA7390993DC7D5170882B6DA4"
+  },
+  {
+    "Path": "(Footage)/PDOOM - Stack reconstruction/stack-analytic.json",
+    "Bytes": 341888,
+    "SHA256": "8C47EACF577F7F980DB3D4AE08DB214CB0B41B87E185B7DC74F129E3A71547C9"
+  },
+  {
+    "Path": "(Footage)/PDOOM - TIMING REFERENCE - VISUALS PENDING/03 Original audio/pdoom.mp3",
+    "Bytes": 3437188,
+    "SHA256": "7CDD9E61061F5F118370E58A9C46666A3EE92B8442E8B7FAE497D992991C6647"
+  },
+  {
+    "Path": "invalidParam/Aescripts/settings/com.aescripts.settings_Flow.json",
+    "Bytes": 58,
+    "SHA256": "51CA1F0BAC07208150EACFF6C555A67AFB58C921092B46EFAEE708819D09657A"
+  }
+]
